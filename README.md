@@ -1,2 +1,2 @@
 # ML-Applied
-Machine Learning Models applied in different problems like forecasting sales
+This repository contain scripts of Machine Learning applied to different context like forecasting multivariate.  
